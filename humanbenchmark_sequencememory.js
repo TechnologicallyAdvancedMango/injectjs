@@ -1,5 +1,5 @@
 (function() {
-    console.log('Bookmarklet activated');
+    console.log('Script activated');
     var delay = 50;
     var initialDelay = 5000;
     var subsequentDelay = 1500;
